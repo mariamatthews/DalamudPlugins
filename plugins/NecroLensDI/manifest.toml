@@ -1,0 +1,18 @@
+[plugin]
+repository = "https://github.com/mariamatthews/NecroLensDI"
+commit = "e844303b55c6725055d31475e521aee194b1984a"
+owners = ["mariamatthews"]
+project_path = "NecroLensDI"
+changelog = '''
+- Implemented Dependency Injection for enhanced modularity and maintainability.
+- Updated compatibility to game version 7.2.
+'''
+
+[plugin.metadata]
+name = "NecroLensDI"
+description = "Enhanced DeepDungeon Helper with ESP features, optimized using Dependency Injection."
+internal_name = "NecroLensDI"
+punchline = "DeepDungeon mastery powered by Dependency Injection!"
+tags = ["potd", "hoh", "eo", "esp", "radar", "sonar", "deep", "dungeon", "dependency-injection"]
+dalamud_api_level = 12
+icon_url = "https://raw.githubusercontent.com/mariamatthews/DalamudPlugins/main/plugins/NecroLensDI/images/icon.png"
