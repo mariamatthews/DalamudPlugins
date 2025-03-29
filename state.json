@@ -1,11 +1,32 @@
-{
-    "Channels": {
-      "stable": {
-        "Plugins": {
-          "NecroLensDI": {
-            "TimeBuilt": "2025-03-28T12:00:00+00:00"
-          }
-        }
-      }
-    }
+[
+  {
+    "Author": "mariamatthews",
+    "Name": "NecroLensDI",
+    "Punchline": "Enhanced DeepDungeon Helper with ESP features, optimized using Dependency Injection",
+    "Description": "DeepDungeon mastery powered by Dependency Injection!",
+    "Tags": [
+      "potd",
+      "hoh",
+      "eo",
+      "esp",
+      "radar",
+      "sonar",
+      "deep",
+      "dungeon"
+    ],
+    "InternalName": "NecroLensDI",
+    "RepoUrl": "https://github.com/mariamatthews/NecroLensDI",
+    "DownloadCount": 41551,
+    "LastUpdate": 174320880500,
+    "DownloadLinkInstall": "https://github.com/mariamatthews/NecroLensDI/releases/download/1.7.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/mariamatthews/NecroLensDI/releases/download/1.7.2.0/latest.zip",
+    "AssemblyVersion": "1.7.2.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "Changelog": "",
+    "IconUrl": "https://mariamatthews.github.io/DalamudPlugins/plugins/NecroLensDI/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/mariamatthews/NecroLensDI/main/screen.png"
+    ]
   }
+]
