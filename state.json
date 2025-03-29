@@ -1,9 +1,26 @@
 [
   {
+    "AcceptsFeedback": false,
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "1.7.2.0",
     "Author": "mariamatthews",
+    "CanUnloadAsync": false,
+    "DalamudApiLevel": 12,
+    "Description": "DeepDungeon mastery powered by Dependency Injection!",
+    "DownloadCount": 41551,
+    "DownloadLinkInstall": "https://github.com/mariamatthews/NecroLensDI/releases/download/1.7.2.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/mariamatthews/NecroLensDI/releases/download/1.7.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/mariamatthews/NecroLensDI/releases/download/1.7.2.0/latest.zip",
+    "IconUrl": "https://mariamatthews.github.io/DalamudPlugins/stable/plugins/NecroLensDI/images/icon.png",
+    "InternalName": "NecroLensDI",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
     "Name": "NecroLensDI",
     "Punchline": "Enhanced DeepDungeon Helper with ESP features, optimized using Dependency Injection",
-    "Description": "DeepDungeon mastery powered by Dependency Injection!",
+    "RepoUrl": "https://github.com/mariamatthews/NecroLensDI",
     "Tags": [
       "potd",
       "hoh",
@@ -13,20 +30,6 @@
       "sonar",
       "deep",
       "dungeon"
-    ],
-    "InternalName": "NecroLensDI",
-    "RepoUrl": "https://github.com/mariamatthews/NecroLensDI",
-    "DownloadCount": 41551,
-    "LastUpdate": 174320880500,
-    "DownloadLinkInstall": "https://github.com/mariamatthews/NecroLensDI/releases/download/1.7.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/mariamatthews/NecroLensDI/releases/download/1.7.2.0/latest.zip",
-    "AssemblyVersion": "1.7.2.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "12",
-    "Changelog": "",
-    "IconUrl": "https://mariamatthews.github.io/DalamudPlugins/plugins/NecroLensDI/images/icon.png",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/mariamatthews/NecroLensDI/main/screen.png"
     ]
   }
 ]
